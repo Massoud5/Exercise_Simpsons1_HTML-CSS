@@ -1,6 +1,6 @@
-### Elan Formation Exercice ###
+# Elan Formation Exercice #
 
-# Reproduction d'un site internet <<Simpsons>> #
+## Reproduction d'un site internet (Simpsons1) ##
 
 - HTML
 - CSS
