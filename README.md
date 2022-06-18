@@ -3,7 +3,7 @@
 ## Reproduction d'un site internet (Simpsons1) 
 
 #### HTML
-    - Standard HTML tags (periodic table of HTML:https://madebymike.github.io/html5-periodic-table/#article)
+    - Standard HTML tags (periodic table of HTML tags:https://madebymike.github.io/html5-periodic-table/#article)
     - validator HTML : https://validator.w3.org
 
 #### CSS
